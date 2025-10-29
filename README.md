@@ -1,0 +1,1 @@
+# Databricks-Generative-AI-Associate-Certification
