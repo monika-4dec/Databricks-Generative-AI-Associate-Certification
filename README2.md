@@ -2,7 +2,7 @@
 
 Welcome to the official companion repository for the upcoming O’Reilly book:  
 **"Databricks Certified Generative AI Engineer Associate Study Guide: Generative AI with Databricks"**  
-by **"Dr.Monika Arora** — EXL Service, Databricks Gen AI Engineer Associate Certified.  
+by **"Dr.Monika Arora"** — EXL Service, Databricks Gen AI Engineer Associate Certified.  
 
 This repository contains the notebooks, code samples, hands-on labs, and practice materials that accompany the book, helping readers prepare for the **Databricks Generative AI Engineer Associate Certification**.  
 
